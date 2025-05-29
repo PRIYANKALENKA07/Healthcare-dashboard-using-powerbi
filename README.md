@@ -35,6 +35,20 @@ This interactive healthcare dashboard provides hospital administrators, medical 
 - Automated Alerts: Highlight departments with abnormally high mortality rates.
 - Exportable Reports: Generate PDF/Excel summaries for stakeholder meetings.
 
-  
+## 5 Actionable Insights for Stakeholders
+- Neurology Costs 30% More
+    - Action: Audit supply costs & renegotiate vendor contracts.
+
+- Geriatric Mortality 12% (vs. 5% Avg.)
+    - Action: Add geriatric care training for Cardiology staff.
+
+- July Admissions Double
+    - Action: Hire temporary staff pre-summer.
+
+- Diabetes Readmissions 25%
+    - Action: Launch post-discharge checkup calls.
+
+- Pediatrics 40% Bed Vacancy
+    - Action: Repurpose space for high-demand departments.
 
 
