@@ -54,3 +54,4 @@ This interactive healthcare dashboard provides hospital administrators, medical 
 
 
 ![Dashboard Demo](https://github.com/PRIYANKALENKA07/Healthcare-dashboard-using-powerbi/blob/main/Front%20page%20of%20the%20dashboard%20lightmode.png)
+
