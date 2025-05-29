@@ -52,3 +52,5 @@ This interactive healthcare dashboard provides hospital administrators, medical 
     - Action: Repurpose space for high-demand departments.
 
 
+
+![Dashboard Demo](https://github.com/PRIYANKALENKA07/Healthcare-dashboard-using-powerbi)
